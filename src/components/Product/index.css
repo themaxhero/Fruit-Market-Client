@@ -1,0 +1,35 @@
+.product{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    height: 80%;
+}
+
+.product-name {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.product-name button{
+    margin-left: 8px;
+}
+
+.product-specs{
+    color: darkslategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100%;
+    margin-bottom: 2%;
+}
+
+.product-price{
+    color: green;
+    font-size: 18px;
+}

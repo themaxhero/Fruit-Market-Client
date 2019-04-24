@@ -1,0 +1,12 @@
+.Home{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-top: 8px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.center{
+    text-align: center;
+}
