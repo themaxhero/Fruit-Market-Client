@@ -1,6 +1,6 @@
 import React from "react";
 import { Store } from "redux";
-import { Provider, ReactReduxContext } from "react-redux";
+import { Provider } from "react-redux";
 import { BrowserRouter as _, Route, Switch } from "react-router-dom";
 import { ConnectedRouter } from "connected-react-router";
 import { History } from "history";
