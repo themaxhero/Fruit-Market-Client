@@ -2,11 +2,11 @@
 
 ## Setup
 Edit src/config.json to set the server location:
-```json
+```javascript
 {
-    "api": "<SERVER_URL_HERE>",
-    "port": <SERVER_PORT_HERE>,
-    "uri": <SERVER_API_URI_HERE>
+    "api": "http://localhost", // <SERVER_URL_HERE>
+    "port": 4600, // <SERVER_PORT_HERE>
+    "uri": "/api" //<SERVER_API_URI_HERE>
 }
 ```
 
