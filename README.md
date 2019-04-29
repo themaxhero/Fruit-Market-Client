@@ -1,4 +1,4 @@
-# Feira da Fruta
+# Fruit Market
 
 ## Setup
 Edit src/config.json to set the server location:
